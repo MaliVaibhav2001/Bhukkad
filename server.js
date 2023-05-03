@@ -10,11 +10,11 @@ import categoryRoutes from "./routes/categoryRoutes.js";
 import productRoutes from "./routes/productRoutes.js";
 // const express = require('express')
 // const colors = require('colors')
-// import { fileURLToPath } from 'url';
+import { fileURLToPath } from 'url';
 
-// const __filename = fileURLToPath(import.meta.url);
+const __filename = fileURLToPath(import.meta.url);
 
-// const __dirname = path.dirname(__filename);
+const __dirname = path.dirname(__filename);
 
 //configure env
 dotenv.config();
