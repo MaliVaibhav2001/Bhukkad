@@ -1,5 +1,5 @@
 {
-  "name": "ecom-mern",
+  "name": "Bhukkad",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm start\" \"npm run client\""
   },
   "keywords": [],
-  "author": "",
+  "author": "Vaibhav",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
